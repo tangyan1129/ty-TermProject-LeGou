@@ -155,6 +155,8 @@
     })
 
 
+    
+
     /** 二维码滑出效果 */
     $('.qr-code .ticket').hover(function(){
         // 二维码滑出来

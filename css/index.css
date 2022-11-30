@@ -956,6 +956,7 @@
 .promotion .promotion-content .promotion-list li p:nth-child(5n+1){
     margin-left: 0;
 }
+
 /* =================11.尾部================= */
 .footer{
     height: 470px;

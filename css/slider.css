@@ -58,7 +58,7 @@
 				background-image:url(../img/nav.png);
 				background-position: -54px 4px;
 				cursor: pointer;
-				z-index: -10;
+				z-index: 0;
 				
 			}
 			

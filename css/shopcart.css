@@ -13,6 +13,7 @@
 .shopcart table{
     height: 500px;
     width: 1200px;
+    font-size: 15px;
     text-align: center;
 }
 .shopcart table tr th{
